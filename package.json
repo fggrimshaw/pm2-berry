@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node index.js",
+    "pm2": "pm2 start ecosystem.config.js"
+  },
+  "dependencies": {
+    "random-words": "1.1.1"
+  }
+}
